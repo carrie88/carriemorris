@@ -1,18 +1,29 @@
 ---
 layout: default
 ---
+
+
+
+
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  <div class="container">
+    <div class="col-sm-10 col-sm-offset-1">
+       <header class="post-header">
+      <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+      <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d %B %Y"}}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+    </header>
 
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-  </header>
+    <div class="post-content" itemprop="articleBody">
+      <img src="{{ site.baseurl }}/img/portfolio/{{ page.img }}" class="img-responsive" alt="{{ page.alt }}">
+      {{ content }}
+    </div>
 
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
+    {% if site.disqus.shortname %}
+      {% include disqus_comments.html %}
+    {% endif %}
+    </div>
+   
   </div>
-
-  {% if site.disqus.shortname %}
-    {% include disqus_comments.html %}
-  {% endif %}
+  
 </article>
+

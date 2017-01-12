@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="391px" height="111px" viewBox="0 0 391 111" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 16</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="405" height="173"></rect>
+        <rect id="path-3" x="411" y="261" width="12" height="12"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="12" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="544" y="261" width="12" height="12"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="12" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Copy-2" transform="translate(-108.000000, -930.000000)">
+            <g id="Group-16" transform="translate(108.000000, 903.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask"></g>
+                <g mask="url(#mask-2)">
+                    <g transform="translate(-165.000000, -136.000000)">
+                        <g id="Group-4" stroke="none" stroke-width="1" fill="none">
+                            <use id="Rectangle-6" stroke="#5D7FCC" mask="url(#mask-4)" stroke-width="6" xlink:href="#path-3"></use>
+                            <use id="Rectangle-6-Copy" stroke="#5D7FCC" mask="url(#mask-6)" stroke-width="6" xlink:href="#path-5"></use>
+                            <path d="M422,267 L545,267" id="Line" stroke="#5D7FCC" stroke-width="4" stroke-linecap="square"></path>
+                            <g id="Group-11"></g>
+                        </g>
+                        <circle id="Oval-4" stroke="#5D7FCC" stroke-width="3" fill="#EDEBE6" cx="482" cy="266" r="6"></circle>
+                        <g id="Group-9" stroke="none" stroke-width="1" fill="none" transform="translate(438.871843, 220.871843) rotate(-45.000000) translate(-438.871843, -220.871843) translate(413.871843, 158.371843)">
+                            <g id="Group-3" transform="translate(0.929412, -0.000000)"></g>
+                            <g id="Group-10" transform="translate(-0.000000, 0.000000)">
+                                <rect id="Rectangle" fill="#405992" x="1.70588235" y="30.9522114" width="15.8948267" height="62.8873526"></rect>
+                                <rect id="Rectangle-Copy-2" fill="#273D6D" x="33.4955357" y="30.9522114" width="15.8948267" height="62.8873526"></rect>
+                                <rect id="Rectangle-Copy" fill="#5D7FCC" x="14.2381696" y="30.9522114" width="22.9243697" height="62.8873526"></rect>
+                                <rect id="Rectangle-3" fill="#8FD8FF" x="1.70588235" y="25.2203204" width="48.1411765" height="5.731891"></rect>
+                                <rect id="Rectangle-3-Copy" fill="#CDEEFF" x="1.70588235" y="19.4884294" width="48.1411765" height="5.731891"></rect>
+                                <rect id="Rectangle-4" fill="#E67059" x="1.70588235" y="-1.13686838e-13" width="48.1411765" height="22.927564" rx="10"></rect>
+                                <polygon id="Path-4" fill="#FFD5B9" points="0.966910123 93.366272 24.0280397 123.477471 49.4037946 93.366272"></polygon>
+                                <polygon id="Path-5" fill="#6B6B6B" points="13.104264 108.978137 36.0890789 109.296638 24.5966715 124.345651"></polygon>
+                            </g>
+                        </g>
+                        <path d="M338.910795,220.459532 C346.657899,221.698797 365.577894,211.209555 372.475791,193.877401 C383.21414,166.895448 394.542078,183.123683 394.542078,183.123683 C394.542078,183.123683 407.608825,197.665041 416.061991,197.665041 C424.515157,197.665041 424.669488,182.119781 408.82711,179.012133 C403.191666,176.927108 430.014976,185.852235 432.832697,176.349104 C435.650419,166.845972 420.158795,161.20634 409.135773,165.069839 C407.206627,164.821789 429.570687,159.865465 425.42244,152.005081 C421.274192,144.144698 411.418011,145.89977 389.187237,157.778099 C386.214228,160.703603 372.068629,162.272907 360.826365,177.772331 C344.892104,199.740495 345.860005,203.657563 320.998017,201.053815 C298.015172,198.646865 272.80535,231.879546 245.989101,241.125043 C233.934,245.281307 220.847531,234.633274 199.28674,245.619046 C195.385391,247.606883 155.823442,278.951392 155.823442,278.951392 L166.672131,293.151092 C166.672131,293.151092 200.047904,266.839143 204.555538,264.542389 C219.043095,257.16061 235.097153,263.875313 248.996712,261.803469 C267.447852,259.053174 302.633828,214.656491 338.910795,220.459532 Z" id="Path-3-Copy-4" stroke="none" fill="#343543" transform="translate(294.496284, 220.185528) scale(-1, 1) rotate(-153.000000) translate(-294.496284, -220.185528) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
