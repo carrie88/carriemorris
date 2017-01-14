@@ -25,7 +25,7 @@ body {
 
   div{
       padding: 16px;
-    
+
   }
   span{
     font-size: 16px;
@@ -96,7 +96,7 @@ body {
   clear: both;
   float: left;
   margin-top: -1px;
-  padding-bottom: 40px; 
+  padding-bottom: 40px;
 }
 
 
@@ -110,7 +110,6 @@ body {
 
 .portfolio-item{
   padding: 15px;
-  @extend .col-md-4;
 }
 
 
