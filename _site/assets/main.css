@@ -881,7 +881,7 @@ a {
  * Basic styling
  */
 body {
-  background: #EDEBE6;
+  background: #fff;
   /* fallback for old browsers */ }
 
 .body-text {
@@ -1004,3 +1004,12 @@ article.post {
   margin: 20px 0;
   border-top: 1px solid #ccc;
   padding: 10px 40px; }
+
+.post-header {
+  background-repeat: no-repeat !important;
+  background-size: 100%  !important; }
+
+.post-header__image {
+  max-width: 778px;
+  margin: 0 auto;
+  display: block; }
