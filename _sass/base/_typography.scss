@@ -1,0 +1,27 @@
+html, input {
+  font-size: 90%;
+  @include media-query (md) {
+    font-size: 100%;
+  }
+  @include media-query (lg) {
+    font-size: 112.5%;
+  }
+  @include media-query (xl) {
+    font-size: 120%;
+  }
+
+}
+.lead{
+  @include font-size($large-font-size);
+  clear: both;
+}
+
+
+
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Trocchi', serif;
+}
+
+h2{
+  font-size: 30px;
+}

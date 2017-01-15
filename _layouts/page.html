@@ -3,27 +3,16 @@ layout: default
 
 ---
 
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="post">
   <header class="post-header" style="background: url('{{ site.baseurl }}/img/portfolio/{{ page.bgimg }}');">
-      <img class="post-header__image" src="{{ site.baseurl }}/img/portfolio/{{ page.thumb }}" class="img-responsive" alt="{{ page.alt }}">
-      <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
-     
-    </header>
+    <img class="post-header__image" src="{{ site.baseurl }}/img/portfolio/{{ page.thumb }}" class="img-responsive" alt="{{ page.alt }}">
+    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+  </header>
   <div class="container">
-    
-     
-<div class="col-sm-10 col-sm-offset-1">
-    <div class="post-content" itemprop="articleBody" >
-      
-      {{ content }}
+    <div class="col-sm-8 col-sm-offset-2">
+      <div class="post-content" itemprop="articleBody" >
+        {{ content }}
+      </div>
     </div>
-
-    {% if site.disqus.shortname %}
-      {% include disqus_comments.html %}
-    {% endif %}
-    </div>
-   
   </div>
-  
 </article>
-

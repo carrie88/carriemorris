@@ -2,9 +2,6 @@
 /**
  * Basic styling
  */
-body {
-  background: $white; /* fallback for old browsers */
-}
 
 
 .body-text{
@@ -130,15 +127,4 @@ body {
   color:$white;
   clear: both;
   padding: 74px 40px;
-}
-
-
-/* Typography */
-
-h1,h2,h3,h4,h5,h6{
-  font-family: 'Trocchi', serif;
-}
-
-h2{
-  font-size: 30px;
 }
