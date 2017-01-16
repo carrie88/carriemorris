@@ -852,6 +852,26 @@ h1, h2, h3, h4, h5, h6 {
 h2 {
   font-size: 30px; }
 
+.header-logo {
+  background: url("/../img/site/carrie_morris_logo.svg");
+  width: 312px;
+  height: 85px;
+  display: block;
+  background-repeat: no-repeat;
+  margin: 60px auto 0 auto; }
+
+.social-nav {
+  text-align: center;
+  margin: 10px 0 17px 0; }
+  .social-nav a {
+    color: #343543;
+    font-size: 28px;
+    font-size: 1.27273rem;
+    margin: 0 5px;
+    transition: all 0.2 ease; }
+    .social-nav a:hover {
+      opacity: .8; }
+
 /**
  * Button styles
  */
@@ -968,7 +988,7 @@ h2 {
 article.post {
   padding: 40px 0;
   color: #343543;
-  margin-top: 80px; }
+  margin-top: 0px; }
 
 .post-title {
   font-family: 'Trocchi', serif;
@@ -1006,16 +1026,16 @@ article.post {
   float: left;
   margin: 20px 0;
   text-align: center;
-  display: flex;
-  align-items: center;
-  justify-content: center;
   list-style: none;
-  margin-bottom: 32px; }
+  margin-bottom: 32px;
+  font-size: 20px;
+  font-size: 0.90909rem; }
+  .list-tools li {
+    width: 100%;
+    display: inline-block; }
   .list-tools li + li:before {
     content: " - ";
     margin: 0 10px; }
-  .list-tools li {
-    float: left; }
 
 .post-image--1 {
   margin: 32px 0; }

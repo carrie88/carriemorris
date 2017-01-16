@@ -2,7 +2,7 @@
 article.post{
 	padding:40px 0;
 	color: $black;
-	margin-top: 80px;
+	margin-top: 0px;
 }
 
 .post-title{
@@ -46,18 +46,18 @@ article.post{
 	float: left;
 	margin: 20px 0;
   text-align: center;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 	list-style: none;
 	margin-bottom: $base-unit*4;
+	@include font-size($small-font-size);
+ li{
+	 width:100%;
+	 display: inline-block;
+ }
 	li+li:before{
  		content: " - ";
 		margin: 0 10px;
 	}
-	li{
-		float: left;
-	}
+
 }
 .post-image--1{
 	margin: $base-unit*4 0;
