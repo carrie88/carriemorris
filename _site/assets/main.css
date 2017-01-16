@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /**
  * Colour variables
  */
@@ -99,6 +100,7 @@ body {
   font-family: helvetica, arial, sans-serif;
   line-height: 1.5;
   font-size: 22px;
+  margin: 0;
   background: #fff; }
 
 img {
@@ -873,6 +875,15 @@ h2 {
       font-size: 30px; } }
   .body-text div {
     padding: 16px; }
+    @media screen and (min-height: 300px) {
+      .body-text div {
+        margin-top: -200px; } }
+    @media screen and (min-height: 600px) {
+      .body-text div {
+        margin-top: -200px; } }
+    @media screen and (min-height: 900px) {
+      .body-text div {
+        margin-top: 0; } }
   .body-text span {
     font-size: 16px;
     display: block; }
@@ -909,7 +920,8 @@ h2 {
   font-size: 34px;
   line-height: 1.2;
   font-weight: bold;
-  letter-spacing: 1px; }
+  letter-spacing: 1px;
+  margin-bottom: 0; }
   @media only screen and (min-width: 450px) {
     .title {
       font-size: 50px; } }
@@ -928,7 +940,7 @@ h2 {
   clear: both;
   float: left;
   margin-top: -1px;
-  padding-bottom: 40px; }
+  padding: 50px 0 80px 0; }
 
 .post-link {
   float: left; }
@@ -955,7 +967,8 @@ h2 {
 
 article.post {
   padding: 40px 0;
-  color: #67423B; }
+  color: #343543;
+  margin-top: 80px; }
 
 .post-title {
   font-family: 'Trocchi', serif;
@@ -1012,3 +1025,8 @@ article.post {
       width: 110%;
       max-width: 120%;
       margin-left: -5%; } }
+
+.post--quote {
+  text-align: left; }
+  .post--quote:before {
+    content: "“"; }
