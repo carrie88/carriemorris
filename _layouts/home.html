@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-
-
----
 {% include navigation.html %}
 
 <div id="one-page">
@@ -20,16 +17,16 @@ layout: default
   </section>
 -->
   <section class="body-section image-grid">
-     <div class="col-sm-10 col-sm-offset-1">
+     <div class="image-grid__container">
        {% for post in site.posts  %}
           {% if post.layout == "post" %}
-            <div class="portfolio-item {{ post.class }}">
+            <div class="portfolio-item col-xs-12 col-sm-6">
               <a class="post-link" href="{{ post.url | relative_url }}">
                 <img src="{{ site.baseurl }}/img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
               </a>
           </div>
           {% else %}
-            <div class="portfolio-item {{ post.class }} col-xs-6 col-md-4">
+            <div class="portfolio-item col-xs-12 col-sm-6">
               <blockquote class="post--quote">
                 {{ post.quote }}
                 <cite>{{ post.cite }}</cite>
@@ -44,16 +41,16 @@ layout: default
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>About Carrie</h2>
+                    <h2></h2>
                 </div>
             </div>
-            <div class="row">
+            <!-- <div class="row">
                 <div class="col-lg-6 col-lg-offset-3">
                     <p>Carrie has creativity and crafting in the blood. Unusually for a digital designer she has a degree in Fine Art, but dont underestimate her technical capabilities. Shes been honing her digital skills since her early teens, and it shows.
 
                     Carrie keeps herself busy in the evening helping create mobile games, amongst a whole host of other artistic hobbies, from water colours to needle felting and crochet. </p>
                 </div>
-            </div>
+            </div> -->
         </div>
     </section>
 </div>

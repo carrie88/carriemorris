@@ -852,13 +852,17 @@ h1, h2, h3, h4, h5, h6 {
 h2 {
   font-size: 30px; }
 
+.nav {
+  float: left;
+  width: 100%; }
+
 .header-logo {
   background: url("/../img/site/carrie_morris_logo.svg");
   width: 312px;
   height: 85px;
   display: block;
   background-repeat: no-repeat;
-  margin: 60px auto 0 auto; }
+  margin: 40px auto 0 auto; }
 
 .social-nav {
   text-align: center;
@@ -960,10 +964,18 @@ h2 {
   clear: both;
   float: left;
   margin-top: -1px;
-  padding: 50px 0 80px 0; }
+  padding: 20px 0 80px 0; }
+
+.image-grid__container {
+  clear: both;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto; }
 
 .post-link {
-  float: left; }
+  float: left;
+  border-radius: 10px;
+  cursor: pointer; }
   .post-link img {
     float: left; }
 
@@ -986,13 +998,17 @@ h2 {
   padding: 74px 40px; }
 
 article.post {
-  padding: 40px 0;
+  padding: 20px 0;
   color: #343543;
-  margin-top: 0px; }
+  display: inline-block; }
+  @media only screen and (min-width: 993px) {
+    article.post {
+      padding: 40px 0; } }
 
 .post-title {
   font-family: 'Trocchi', serif;
-  font-size: 50px;
+  font-size: 44px;
+  font-size: 2rem;
   line-height: 1.2;
   font-weight: bold;
   letter-spacing: 1px;
@@ -1001,7 +1017,6 @@ article.post {
 
 .post-link {
   float: left;
-  border-radius: 26px;
   overflow: hidden;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.1); }
 
@@ -1014,14 +1029,19 @@ article.post {
 .post-header {
   background-repeat: no-repeat !important;
   background-size: 100%  !important; }
+  @media only screen and (min-width: 768px) {
+    .post-header {
+      background-size: 100% 433px !important; } }
 
 .post-header__image {
-  max-width: 778px;
+  max-width: 100%;
   margin: 0 auto;
   display: block;
   position: relative;
-  top: -40px;
-  border-radius: 25px; }
+  top: -20px; }
+  @media only screen and (min-width: 993px) {
+    .post-header__image {
+      max-width: 778px; } }
 
 .post-content .lead {
   text-align: center; }
@@ -1037,7 +1057,6 @@ article.post {
   font-size: 20px;
   font-size: 0.90909rem; }
   .list-tools li {
-    width: 100%;
     display: inline-block; }
   .list-tools li + li:before {
     content: " - ";
@@ -1047,7 +1066,7 @@ article.post {
   margin: 32px 0; }
   @media only screen and (min-width: 993px) {
     .post-image--1 {
-      margin: 64px 0;
+      margin: 40px 0;
       width: 110%;
       max-width: 120%;
       margin-left: -5%; } }

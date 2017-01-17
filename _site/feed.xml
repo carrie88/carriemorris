@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-01-17T07:31:52+00:00</updated><id>http://localhost:4000//</id><title type="html">Carrie Morris</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-01-17T11:46:51+00:00</updated><id>http://localhost:4000//</id><title type="html">Carrie Morris</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </subtitle><entry><title type="html">Young Womens Housing Project (YWHP)</title><link href="http://localhost:4000/ywhp.html" rel="alternate" type="text/html" title="Young Womens Housing Project (YWHP)" /><published>2017-01-11T22:30:19+00:00</published><updated>2017-01-11T22:30:19+00:00</updated><id>http://localhost:4000/ywhp</id><content type="html" xml:base="http://localhost:4000/ywhp.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#FE8A89;&quot;&gt;
   &lt;li&gt;Date: June 2016&lt;/li&gt;
   &lt;li&gt;Roles: Branding Illustration, UX, Wireframing, Front-end, Wordpress Development&lt;/li&gt;
@@ -16,7 +16,7 @@
   &lt;li&gt;Roles: Illustration, UX, Wireframing, Front-end&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p class=&quot;lead&quot;&gt;At Yoomee I worked on an agile project for Children United, a collaborative between Save the Children and First News, and Achievement for all. They wanted to help connect a global community of educated children to take collective action in order to change their world. &lt;/p&gt;
+&lt;p class=&quot;lead&quot;&gt;Last year at Yoomee I worked on an agile project for Children United, a collaborative between Save the Children and First News, and Achievement for all. They wanted to help connect a global community of educated children to take collective action in order to change their world. &lt;/p&gt;
 
 
 &lt;img src=&quot;/img/portfolio/children-united-icons.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;children-united&quot;&gt;

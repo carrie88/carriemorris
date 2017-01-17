@@ -50,9 +50,3 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-paginate
   minima
-
-RUBY VERSION
-   ruby 2.2.3p173
-
-BUNDLED WITH
-   1.13.7

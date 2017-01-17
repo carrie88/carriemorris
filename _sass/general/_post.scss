@@ -1,13 +1,16 @@
 
 article.post{
-	padding:40px 0;
+	padding:20px 0;
 	color: $black;
-	margin-top: 0px;
+	display: inline-block;
+  @include media-query (md) {
+  	padding:40px 0;
+  }
 }
 
 .post-title{
 	font-family: 'Trocchi', serif;
-  font-size: 50px;
+  @include font-size($x-large-font-size);
   line-height: 1.2;
   font-weight: bold;
   letter-spacing: 1px;
@@ -17,7 +20,6 @@ article.post{
 
 .post-link{
 	float: left;
-  border-radius: 26px;
   overflow: hidden;
   box-shadow: 0 0 15px rgba(0,0,0,0.1);
 }
@@ -32,15 +34,20 @@ article.post{
 .post-header{
 	background-repeat:no-repeat !important;
 	background-size: 100%  !important;
+	 @include media-query (sm){
+	 	background-size: 100% 433px !important;
+	 }
 }
 
 .post-header__image{
-	max-width: 778px;
+	max-width: 100%;
 	margin: 0 auto;
 	display: block;
 	position: relative;
-	top: -40px;
-	border-radius: 25px;
+	top: -20px;
+  @include media-query (md) {
+  	max-width: 778px;
+  }
 }
 
 .post-content .lead{
@@ -57,7 +64,7 @@ article.post{
 	margin-bottom: $base-unit*4;
 	@include font-size($small-font-size);
  li{
-	 width:100%;
+	 
 	 display: inline-block;
  }
 	li+li:before{
@@ -69,7 +76,7 @@ article.post{
 .post-image--1{
 	margin: $base-unit*4 0;
   @include media-query (md) {
-		margin: $base-unit*8 0;
+		margin: $base-unit*5 0;
 		width: 110%;
     max-width: 120%;
     margin-left: -5%;

@@ -7,7 +7,7 @@ $(document).ready(function(){
     });
 
 
-		var $containerRelated = $('.image-grid').imagesLoaded( function() {
+		var $containerRelated = $('.image-grid__container').imagesLoaded( function() {
        $containerRelated.isotope({
          // options
          itemSelector: '.portfolio-item',
