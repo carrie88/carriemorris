@@ -15,6 +15,13 @@ article.post{
 	margin-bottom: 0;
 }
 
+.post-link{
+	float: left;
+  border-radius: 26px;
+  overflow: hidden;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
 .post-meta{
 	text-align: center;
 	margin:20px 0;
