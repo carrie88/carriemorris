@@ -4,12 +4,22 @@
 }
 
 .header-logo{
-  background: url('/../img/site/carrie_morris_logo.svg');
-  width: 312px;
-  height: 85px;
+  /* background: url('/../img/site/carrie_morris_logo.svg'); */
   display: block;
   background-repeat: no-repeat;
   margin: 50px auto 0 auto;
+  text-align: center;
+  color: $black;
+  padding: 0;
+  text-decoration: none;
+  font-family: 'Raleway';
+  h1{
+    @include font-size($xx-large-font-size);
+    margin-bottom: 0;
+  }
+  span{
+
+  }
 }
 
 .social-nav{
