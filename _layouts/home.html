@@ -23,10 +23,15 @@ layout: default
             <div class="portfolio-item col-xs-12 col-sm-6">
               <a class="post-link" href="{{ post.url | relative_url }}">
                 <img src="{{ site.baseurl }}/img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+                <div class="post-peek">
+                    <div class="caption-content">
+                        <i class="fa fa-search-plus fa-3x"></i>
+                    </div>
+                </div>
               </a>
           </div>
           {% else %}
-            <div class="portfolio-item col-xs-12 col-sm-6">
+            <div class="portfolio-item col-xs-12 col-sm-6 animation-target">
               <blockquote class="post--quote">
                 {{ post.quote }}
                 <cite>{{ post.cite }}</cite>

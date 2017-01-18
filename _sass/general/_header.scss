@@ -9,19 +9,21 @@
   height: 85px;
   display: block;
   background-repeat: no-repeat;
-  margin: 40px auto 0 auto;
+  margin: 50px auto 0 auto;
 }
 
 .social-nav{
   text-align: center;
   margin: 10px 0 17px 0;
   a{
-    color: $black;
+    color: $turq;
     @include font-size($large-font-size);
     margin:0 5px;
     transition: all 0.2 ease;
+    text-decoration: none;
     &:hover{
-      opacity: .8;
+
+      color: $turq;
     }
   }
 }

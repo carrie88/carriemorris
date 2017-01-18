@@ -18,11 +18,6 @@ article.post{
 	margin-bottom: 0;
 }
 
-.post-link{
-	float: left;
-  overflow: hidden;
-  box-shadow: 0 0 15px rgba(0,0,0,0.1);
-}
 
 .post-meta{
 	text-align: center;
@@ -62,17 +57,26 @@ article.post{
   text-align: center;
 	list-style: none;
 	margin-bottom: $base-unit*4;
+	padding: 0;
 	@include font-size($small-font-size);
  li{
-	 
+
 	 display: inline-block;
  }
 	li+li:before{
  		content: " - ";
 		margin: 0 10px;
 	}
-
 }
+
+.project__images {
+	margin-top:20px;
+	img{
+		margin-top:20px;
+		margin-bottom:20px;
+	}
+}
+
 .post-image--1{
 	margin: $base-unit*4 0;
   @include media-query (md) {
@@ -83,11 +87,15 @@ article.post{
 	}
 }
 
+.post-content{
+	text-align: center;
+}
 
-.post--quote{
-	text-align:left;
-	&:before{
-
-		content: "“";
-	}
+.project-link{
+	text-align: center;
+	color: $turq;
+	text-decoration: none;
+	padding-bottom: 2px;
+	box-shadow: 0 3px 0 $turq;
+	margin-bottom: 30px;
 }
