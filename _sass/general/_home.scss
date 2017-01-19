@@ -163,15 +163,28 @@
   padding: 15px;
 }
 
-.post--quote{
+.home--quote{
 	text-align: left;
   background: $turq;
   margin: 0;
   padding: 43px;
   border-radius: 15px;
+  font-style: normal;
 	&:before{
-		content: "“";
+    content: "“";
+    font-size: 180px;
+    display: block;
+    line-height: 1;
+    margin-top: -17px;
+    font-family: Trocchi;
+    height: 82px;
 	}
+
+  cite{
+    display: block;
+    font-size: 16px;
+    margin-top:10px;
+  }
 }
 
 
@@ -185,7 +198,16 @@
    }
 }
 
-
+.section__footer a{
+  color: $white;
+  padding: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  min-height: 100px;
+  background: $black;
+}
 
 .section__about{
   background: #292a38;

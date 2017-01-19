@@ -1021,14 +1021,25 @@ h2 {
 .portfolio-item {
   padding: 15px; }
 
-.post--quote {
+.home--quote {
   text-align: left;
   background: #5CC195;
   margin: 0;
   padding: 43px;
-  border-radius: 15px; }
-  .post--quote:before {
-    content: "“"; }
+  border-radius: 15px;
+  font-style: normal; }
+  .home--quote:before {
+    content: "“";
+    font-size: 180px;
+    display: block;
+    line-height: 1;
+    margin-top: -17px;
+    font-family: Trocchi;
+    height: 82px; }
+  .home--quote cite {
+    display: block;
+    font-size: 16px;
+    margin-top: 10px; }
 
 .section__hero.section {
   background: url("/../img/site/background.svg");
@@ -1038,6 +1049,16 @@ h2 {
   @media only screen and (min-width: 768px) {
     .section__hero.section {
       background-size: contain; } }
+
+.section__footer a {
+  color: #fff;
+  padding: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  min-height: 100px;
+  background: #343543; }
 
 .section__about {
   background: #292a38;
@@ -1132,3 +1153,23 @@ article.post {
   padding-bottom: 2px;
   box-shadow: 0 3px 0 #5CC195;
   margin-bottom: 30px; }
+
+.post--quote {
+  text-align: left;
+  margin: 0;
+  padding: 43px;
+  border-radius: 15px;
+  font-style: normal;
+  clear: both; }
+  .post--quote:before {
+    content: "“";
+    font-size: 180px;
+    display: block;
+    line-height: 1;
+    margin-top: -17px;
+    font-family: Trocchi;
+    height: 82px; }
+  .post--quote cite {
+    display: block;
+    font-size: 16px;
+    margin-top: 10px; }

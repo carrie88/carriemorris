@@ -99,3 +99,28 @@ article.post{
 	box-shadow: 0 3px 0 $turq;
 	margin-bottom: 30px;
 }
+
+
+.post--quote{
+	text-align: left;
+  margin: 0;
+  padding: 43px;
+  border-radius: 15px;
+  font-style: normal;
+	clear: both;
+	&:before{
+    content: "“";
+    font-size: 180px;
+    display: block;
+    line-height: 1;
+    margin-top: -17px;
+    font-family: Trocchi;
+    height: 82px;
+	}
+
+  cite{
+    display: block;
+    font-size: 16px;
+    margin-top:10px;
+  }
+}
