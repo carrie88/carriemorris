@@ -1,4 +1,103 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-01-30T12:32:33+00:00</updated><id>http://localhost:4000//</id><title type="html">Carrie Morris</title><subtitle>Digital design and illustration</subtitle><entry><title type="html">Children United</title><link href="http://localhost:4000/children-united.html" rel="alternate" type="text/html" title="Children United" /><published>2017-01-11T22:30:19+00:00</published><updated>2017-01-11T22:30:19+00:00</updated><id>http://localhost:4000/children-united</id><content type="html" xml:base="http://localhost:4000/children-united.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#D03438;&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-17T20:29:28+01:00</updated><id>http://localhost:4000//</id><title type="html">Carrie Morris</title><subtitle>Digital design and illustration</subtitle><entry><title type="html">Selected illustrations</title><link href="http://localhost:4000/selected-illustrations.html" rel="alternate" type="text/html" title="Selected illustrations" /><published>2017-01-11T22:30:19+00:00</published><updated>2017-01-11T22:30:19+00:00</updated><id>http://localhost:4000/leopard</id><content type="html" xml:base="http://localhost:4000/selected-illustrations.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#D03438;&quot;&gt;
+  &lt;li&gt;Date: 2020&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;div class=&quot;col-sm-6&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-tiger.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Tiger&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-6&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-leopard.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Leopard&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-eggs.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Easter egg family&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-tea.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Tea&quot;&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-sm-6&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-ramen.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Ramen&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-6&quot;&gt;
+  &lt;video width=&quot;100%&quot; height=&quot;100%&quot; autoplay muted loop class=&quot;post-image--1&quot;&gt;
+    &lt;source src=&quot;/img/portfolio/2020-lemon.mp4&quot; type=&quot;video/mp4&quot;&gt;
+    &lt;source src=&quot;/img/portfolio/2020-lemon.ogg&quot; type=&quot;video/ogg&quot;&gt;
+    Your browser does not support the video tag.
+  &lt;/video&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-koala.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Koala&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-strawberry.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Strawberry&quot;&gt;
+&lt;/div&gt;</content><summary type="html">Date: 2020</summary></entry><entry><title type="html">Selected illustrations</title><link href="http://localhost:4000/selected-illustrations.html" rel="alternate" type="text/html" title="Selected illustrations" /><published>2017-01-11T22:30:19+00:00</published><updated>2017-01-11T22:30:19+00:00</updated><id>http://localhost:4000/hydrangea</id><content type="html" xml:base="http://localhost:4000/selected-illustrations.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#D03438;&quot;&gt;
+  &lt;li&gt;Date: 2020&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;div class=&quot;col-sm-6&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-tiger.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Tiger&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-6&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-leopard.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Leopard&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-eggs.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Easter egg family&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-tea.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Tea&quot;&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-sm-6&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-ramen.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Ramen&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-6&quot;&gt;
+  &lt;video width=&quot;100%&quot; height=&quot;100%&quot; autoplay muted loop class=&quot;post-image--1&quot;&gt;
+    &lt;source src=&quot;/img/portfolio/2020-lemon.mp4&quot; type=&quot;video/mp4&quot;&gt;
+    &lt;source src=&quot;/img/portfolio/2020-lemon.ogg&quot; type=&quot;video/ogg&quot;&gt;
+    Your browser does not support the video tag.
+  &lt;/video&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-koala.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Koala&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-strawberry.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Strawberry&quot;&gt;
+&lt;/div&gt;</content><summary type="html">Date: 2020</summary></entry><entry><title type="html">Selected illustrations</title><link href="http://localhost:4000/selected-illustrations.html" rel="alternate" type="text/html" title="Selected illustrations" /><published>2017-01-11T22:30:19+00:00</published><updated>2017-01-11T22:30:19+00:00</updated><id>http://localhost:4000/eggs</id><content type="html" xml:base="http://localhost:4000/selected-illustrations.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#D03438;&quot;&gt;
+  &lt;li&gt;Date: 2020&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;div class=&quot;col-sm-6&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-tiger.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Tiger&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-6&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-leopard.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Leopard&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-eggs.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Easter egg family&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-tea.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Tea&quot;&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-sm-6&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-ramen.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Ramen&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-6&quot;&gt;
+  &lt;video width=&quot;100%&quot; height=&quot;100%&quot; autoplay muted loop class=&quot;post-image--1&quot;&gt;
+    &lt;source src=&quot;/img/portfolio/2020-lemon.mp4&quot; type=&quot;video/mp4&quot;&gt;
+    &lt;source src=&quot;/img/portfolio/2020-lemon.ogg&quot; type=&quot;video/ogg&quot;&gt;
+    Your browser does not support the video tag.
+  &lt;/video&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-koala.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Koala&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-strawberry.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Strawberry&quot;&gt;
+&lt;/div&gt;</content><summary type="html">Date: 2020</summary></entry><entry><title type="html">Children United</title><link href="http://localhost:4000/children-united.html" rel="alternate" type="text/html" title="Children United" /><published>2017-01-11T22:30:19+00:00</published><updated>2017-01-11T22:30:19+00:00</updated><id>http://localhost:4000/children-united</id><content type="html" xml:base="http://localhost:4000/children-united.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#D03438;&quot;&gt;
   &lt;li&gt;Date: 2016&lt;/li&gt;
   &lt;li&gt;Roles: Illustration, UX, Wireframing, Front-end&lt;/li&gt;
 &lt;/ul&gt;

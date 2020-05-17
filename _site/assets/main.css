@@ -101,7 +101,9 @@ body {
   line-height: 1.5;
   font-size: 22px;
   margin: 0;
-  background: #fff; }
+  background: url("/../img/site/background-blobs.svg") #fff;
+  background-size: cover;
+  background-repeat: no-repeat; }
 
 img {
   max-width: 100%;
@@ -981,10 +983,8 @@ h2 {
 
 .post-link {
   float: left;
-  border-radius: 10px;
   cursor: pointer;
   overflow: hidden;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
   position: relative; }
   .post-link img {
     float: left;

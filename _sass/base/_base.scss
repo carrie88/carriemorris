@@ -23,7 +23,9 @@ body {
   line-height: 1.5;
   font-size: $base-font-size + px;
   margin:0;
-  background: $white;
+  background: url('/../img/site/background-blobs.svg') $white;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 img {
