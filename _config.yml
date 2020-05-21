@@ -10,8 +10,8 @@ collections:
     output: true
 email: hello@carriemorris.me
 description: Digital design and illustration
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: carriemoja
 github_username: carrie88
 markdown: kramdown
