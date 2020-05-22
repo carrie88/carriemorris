@@ -23,7 +23,7 @@ layout: default
           {% if post.layout == "post" %}
             <div class="portfolio-item col-xs-12 col-sm-4">
               <a class="post-link" href="{{ post.url | relative_url }}">
-                <img src="{{ site.baseurl }}/img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+                <img src="{{ post.thumb.image }}" class="img-responsive" alt="{{ post.alt }}" />
                 <div class="post-peek">
                     <div class="caption-content">
                         <i class="fa fa-search-plus fa-3x"></i>
@@ -32,7 +32,7 @@ layout: default
               </a>
           </div>
           {% else %}
-        
+
           <!--
             <div class="portfolio-item col-xs-12 col-sm-6 animation-target">
               <blockquote class="home--quote">
