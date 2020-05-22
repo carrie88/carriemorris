@@ -9,7 +9,7 @@ img3: dita-shop.jpg
 img4: dita-house.jpg
 img5: dita-outfit.jpg
 img6: dita-lounge.jpg
-alt: image-alt
+alt: Dragon in the attic
 color: BE5877;
 layout: post
 ---
