@@ -1,5 +1,5 @@
 ---
-title: Selected illustrations - Hydrangea
+title: Selected illustrations
 date: 2020-04-19 22:30:00 Z
 permalink: selected-illustrations.html
 categories:
