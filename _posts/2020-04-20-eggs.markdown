@@ -1,14 +1,14 @@
 ---
 title: Selected illustrations
-date: 2017-01-11 22:30:19 Z
+date: 2020-04-20 22:30:00 Z
 permalink: selected-illustrations.html
 categories:
 - illustration
-layout: post
 class: col-xs-6 col-md-6
 color: D03438;
 img: 2020-eggs.jpg
 alt: Selected illustrations
+layout: post
 ---
 
 <ul class="list-tools" style="color:#{{ page.color }}">
