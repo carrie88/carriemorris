@@ -3,7 +3,8 @@ title: Dragon in the Attic
 date: 2017-01-11 22:30:00 Z
 permalink: dragon-in-the-attic.html
 class: col-xs-6 col-md-3
-thumb: dragon-the-attic-thumb.png
+thumb:
+  image: "/uploads/dragon-the-attic-thumb.jpg"
 img2: dragon-isolated.jpg
 img3: dita-shop.jpg
 img4: dita-house.jpg
