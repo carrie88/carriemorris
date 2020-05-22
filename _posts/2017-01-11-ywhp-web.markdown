@@ -1,17 +1,17 @@
 ---
 title: Young Womens Housing Project (YWHP)
-date: 2017-01-11 22:30:19 Z
+date: 2017-01-11 22:30:00 Z
 permalink: ywhp.html
-layout: post
 class: col-xs-6 col-md-3
-img: ywhp.jpg
-thumb: ywhp-thumb.jpg
+thumb:
+  image: "/uploads/ywhp_logo_pink.png"
 bgimg: ywhp-bg.jpg
 img2: ywhp_logo_trans.gif
 img3: ywhp-logo-2.jpg
 img4: ywhp-web.jpg
 alt: YWHP image
 color: FE8A89;
+layout: post
 ---
 
 <ul class="list-tools" style="color:#{{ page.color }}">

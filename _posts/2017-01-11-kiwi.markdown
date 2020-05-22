@@ -1,13 +1,14 @@
 ---
 title: Kelham island WI
-date: 2017-01-11 22:30:19 Z
+date: 2017-01-11 22:30:00 Z
 permalink: kiwi.html
-layout: post
+published: false
 class: col-xs-6 col-md-3
 img: kiwi.jpg
 thumb: kiwi.jpg
 color: FE8A89;
 alt: Kelham Island WI website
+layout: post
 ---
 
 <ul class="list-tools" style="color:#{{ page.color }}">

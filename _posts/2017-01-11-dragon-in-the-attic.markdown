@@ -1,18 +1,18 @@
 ---
 title: Dragon in the Attic
-date: 2017-01-11 22:30:19 Z
+date: 2017-01-11 22:30:00 Z
 permalink: dragon-in-the-attic.html
-layout: post
 class: col-xs-6 col-md-3
-img: dragon-the-attic-thumb.jpg
-thumb: dragon-the-attic-thumb.png
+thumb:
+  image: "/uploads/dragon-the-attic-thumb.jpg"
 img2: dragon-isolated.jpg
 img3: dita-shop.jpg
 img4: dita-house.jpg
 img5: dita-outfit.jpg
 img6: dita-lounge.jpg
-alt: image-alt
+alt: Dragon in the attic
 color: BE5877;
+layout: post
 ---
 
 <ul class="list-tools" style="color:#{{ page.color }}">
