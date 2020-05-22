@@ -4,7 +4,8 @@ date: 2017-01-11 22:30:00 Z
 permalink: children-united.html
 class: col-xs-6 col-md-6
 color: D03438;
-thumb: children-united-thumb.jpg
+thumb:
+  image: "/uploads/children-united.jpg"
 bgimg: children-united-bg.jpg
 img2: children-united-icons.jpg
 img3: children-united-full.jpg
