@@ -1137,7 +1137,6 @@ article.post {
   margin: 0; }
   @media only screen and (min-width: 993px) {
     .post-image--1 {
-      margin: 40px 0;
       width: 110%;
       max-width: 120%;
       margin-left: -5%; } }
