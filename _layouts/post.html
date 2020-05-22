@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+{% include navigation.html %}
+<article class="post">
+  <header class="post-header" style="background: url('{{ site.baseurl }}/img/portfolio/{{ page.bgimg }}');">
+      {% if post.thumb %}
+    <img class="post-header__image" src="{{ site.baseurl }}/img/portfolio/{{ page.thumb }}" class="img-responsive" alt="{{ page.alt }}">
+    {% endif %}
+    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+  </header>
+  <div class="container">
+    <div class="col-sm-8 col-sm-offset-2">
+      <div class="post-content" itemprop="articleBody" >
+        {{ content }}
+      </div>
+    </div>
+  </div>
+</article>
+<section class="section__footer">
+  <a class="all-projects" href="{{ site.baseurl }}/">See all projects</a>
+</section>
