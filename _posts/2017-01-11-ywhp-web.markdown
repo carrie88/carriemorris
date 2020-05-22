@@ -3,7 +3,8 @@ title: Young Womens Housing Project (YWHP)
 date: 2017-01-11 22:30:00 Z
 permalink: ywhp.html
 class: col-xs-6 col-md-3
-thumb: ywhp-thumb.jpg
+thumb:
+  image: "/uploads/ywhp_logo_pink.png"
 bgimg: ywhp-bg.jpg
 img2: ywhp_logo_trans.gif
 img3: ywhp-logo-2.jpg
