@@ -1,16 +1,15 @@
 ---
 title: Children United
-date: 2017-01-11 22:30:19 Z
+date: 2017-01-11 22:30:00 Z
 permalink: children-united.html
-layout: post
 class: col-xs-6 col-md-6
 color: D03438;
 thumb: children-united-thumb.jpg
 bgimg: children-united-bg.jpg
-img: children-united.jpg
 img2: children-united-icons.jpg
 img3: children-united-full.jpg
 alt: children-united
+layout: post
 ---
 
 <ul class="list-tools" style="color:#{{ page.color }}">
