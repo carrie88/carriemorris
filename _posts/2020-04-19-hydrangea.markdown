@@ -6,7 +6,8 @@ categories:
 - illustration
 class: col-xs-6 col-md-6
 color: D03438;
-img: 2020-hydrangea.jpg
+thumb:
+  image: "/uploads/2020-hydrangea.jpg"
 alt: Selected illustrations
 layout: post
 ---
