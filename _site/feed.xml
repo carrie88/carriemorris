@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-22T21:45:43+01:00</updated><id>http://localhost:4000//</id><title type="html">Carrie Morris</title><subtitle>Digital design and illustration</subtitle><entry><title type="html">Young Womens Housing Project (YWHP)</title><link href="http://localhost:4000/ywhp.html" rel="alternate" type="text/html" title="Young Womens Housing Project (YWHP)" /><published>2017-01-11T22:30:19+00:00</published><updated>2017-01-11T22:30:19+00:00</updated><id>http://localhost:4000/ywhp-web</id><content type="html" xml:base="http://localhost:4000/ywhp.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#FE8A89;&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-22T21:57:46+01:00</updated><id>http://localhost:4000//</id><title type="html">Carrie Morris</title><subtitle>Digital design and illustration</subtitle><entry><title type="html">Young Womens Housing Project (YWHP)</title><link href="http://localhost:4000/ywhp.html" rel="alternate" type="text/html" title="Young Womens Housing Project (YWHP)" /><published>2017-01-11T22:30:19+00:00</published><updated>2017-01-11T22:30:19+00:00</updated><id>http://localhost:4000/ywhp-web</id><content type="html" xml:base="http://localhost:4000/ywhp.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#FE8A89;&quot;&gt;
   &lt;li&gt;Date: 2016&lt;/li&gt;
   &lt;li&gt;Roles: Branding Illustration, UX, Wireframing, Front-end, Wordpress Development&lt;/li&gt;
 &lt;/ul&gt;
@@ -8,18 +8,18 @@
   I helped them develop their branding to focus on the amazing support work they do with a new lockup, styleguide, website and print materials.
 &lt;/p&gt;
 
-&lt;a class=&quot;project-link&quot; href=&quot;http://ywhp.org.uk&quot;&gt;Take a look at Young Womens Housing Project here&lt;/a&gt;
+&lt;p&gt;&lt;a class=&quot;project-link&quot; href=&quot;http://ywhp.org.uk&quot;&gt;Take a look at Young Womens Housing Project here&lt;/a&gt;&lt;/p&gt;
 
 &lt;div class=&quot;project__images&quot;&gt;
-  &lt;img class=&quot;col-sm-6 &quot;  src=&quot;/img/portfolio/ywhp_logo_trans.gif&quot; alt=&quot;YWHP image&quot;&gt;
-  &lt;img class=&quot;col-sm-6&quot; src=&quot;/img/portfolio/ywhp-logo-2.jpg&quot; alt=&quot;YWHP image&quot;&gt;
+  &lt;img class=&quot;col-sm-6 &quot; src=&quot;/img/portfolio/ywhp_logo_trans.gif&quot; alt=&quot;YWHP image&quot; /&gt;
+  &lt;img class=&quot;col-sm-6&quot; src=&quot;/img/portfolio/ywhp-logo-2.jpg&quot; alt=&quot;YWHP image&quot; /&gt;
   &lt;div class=&quot;col-sm-12&quot;&gt;
     &lt;blockquote class=&quot;post--quote&quot;&gt;
-      The first thing that made me feel as though our partnership was going to work was that Carrie listened. Really listened to who we were, what we did, why YWHP Sheffield is a really important service and how we are uniquely placed to deliver the support we deliver. This was the bedrock to being able to work at the pace we needed to work at - Carrie was very flexible &amp; patient! – and to provide us with a refreshed branding and website that looks great, says what we need it to say and has given us the confidence to step out and shout about what we do.
+      The first thing that made me feel as though our partnership was going to work was that Carrie listened. Really listened to who we were, what we did, why YWHP Sheffield is a really important service and how we are uniquely placed to deliver the support we deliver. This was the bedrock to being able to work at the pace we needed to work at - Carrie was very flexible &amp;amp; patient! – and to provide us with a refreshed branding and website that looks great, says what we need it to say and has given us the confidence to step out and shout about what we do.
       &lt;cite&gt;Theresa Wilding, YWHP SA Support Service, Sheffield.&lt;/cite&gt;
     &lt;/blockquote&gt;
   &lt;/div&gt;
-  &lt;img class=&quot;col-sm-12 post-image--1&quot; src=&quot;/img/portfolio/ywhp-web.jpg&quot; alt=&quot;YWHP image&quot;&gt;
+  &lt;img class=&quot;col-sm-12 post-image--1&quot; src=&quot;/img/portfolio/ywhp-web.jpg&quot; alt=&quot;YWHP image&quot; /&gt;
 &lt;/div&gt;</content><summary type="html">Date: 2016
   Roles: Branding Illustration, UX, Wireframing, Front-end, Wordpress Development</summary></entry><entry><title type="html">Thrive</title><link href="http://localhost:4000/thrive.html" rel="alternate" type="text/html" title="Thrive" /><published>2017-01-11T22:30:19+00:00</published><updated>2017-01-11T22:30:19+00:00</updated><id>http://localhost:4000/thrive</id><content type="html" xml:base="http://localhost:4000/thrive.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#D03438;&quot;&gt;
   &lt;li&gt;Date: 2015&lt;/li&gt;
@@ -33,42 +33,40 @@
 &lt;/p&gt;
 &lt;p&gt;I also worked on press material to go out at launch, including business cards and posters.&lt;/p&gt;
 
-
-&lt;img src=&quot;/img/portfolio/thrive-thumb.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;thrive&quot;&gt;
-&lt;img src=&quot;/img/portfolio/thrive-full-1.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;thrive&quot;&gt;</content><summary type="html">Date: 2015
-  Roles: Design, Development and front-end</summary></entry><entry><title type="html">Young Womens Housing Project (YWHP)</title><link href="http://localhost:4000/quote.html" rel="alternate" type="text/html" title="Young Womens Housing Project (YWHP)" /><published>2017-01-11T22:30:19+00:00</published><updated>2017-01-11T22:30:19+00:00</updated><id>http://localhost:4000/quote</id><content type="html" xml:base="http://localhost:4000/quote.html"></content></entry><entry><title type="html">Selected illustrations</title><link href="http://localhost:4000/selected-illustrations.html" rel="alternate" type="text/html" title="Selected illustrations" /><published>2017-01-11T22:30:19+00:00</published><updated>2017-01-11T22:30:19+00:00</updated><id>http://localhost:4000/leopard</id><content type="html" xml:base="http://localhost:4000/selected-illustrations.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#D03438;&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;/img/portfolio/thrive-thumb.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;thrive&quot; /&gt;
+&lt;img src=&quot;/img/portfolio/thrive-full-1.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;thrive&quot; /&gt;&lt;/p&gt;</content><summary type="html">Date: 2015
+  Roles: Design, Development and front-end</summary></entry><entry><title type="html">Young Womens Housing Project (YWHP)</title><link href="http://localhost:4000/quote.html" rel="alternate" type="text/html" title="Young Womens Housing Project (YWHP)" /><published>2017-01-11T22:30:19+00:00</published><updated>2017-01-11T22:30:19+00:00</updated><id>http://localhost:4000/quote</id><content type="html" xml:base="http://localhost:4000/quote.html"></content><summary type="html"></summary></entry><entry><title type="html">Selected illustrations</title><link href="http://localhost:4000/selected-illustrations.html" rel="alternate" type="text/html" title="Selected illustrations" /><published>2017-01-11T22:30:19+00:00</published><updated>2017-01-11T22:30:19+00:00</updated><id>http://localhost:4000/leopard</id><content type="html" xml:base="http://localhost:4000/selected-illustrations.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#D03438;&quot;&gt;
   &lt;li&gt;Date: 2020&lt;/li&gt;
 &lt;/ul&gt;
 
-
 &lt;div class=&quot;col-sm-6&quot;&gt;
-  &lt;img src=&quot;/img/portfolio/2020-tiger.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Tiger&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-tiger.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Tiger&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;col-sm-6&quot;&gt;
-  &lt;img src=&quot;/img/portfolio/2020-leopard.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Leopard&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-leopard.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Leopard&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
-  &lt;img src=&quot;/img/portfolio/2020-eggs.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Easter egg family&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-eggs.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Easter egg family&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
-  &lt;img src=&quot;/img/portfolio/2020-tea.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Tea&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-tea.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Tea&quot; /&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;col-sm-6&quot;&gt;
-  &lt;img src=&quot;/img/portfolio/2020-ramen.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Ramen&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-ramen.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Ramen&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;col-sm-6&quot;&gt;
-  &lt;video width=&quot;100%&quot; height=&quot;100%&quot; autoplay muted loop class=&quot;post-image--1&quot;&gt;
-    &lt;source src=&quot;/img/portfolio/2020-lemon.mp4&quot; type=&quot;video/mp4&quot;&gt;
-    &lt;source src=&quot;/img/portfolio/2020-lemon.ogg&quot; type=&quot;video/ogg&quot;&gt;
+  &lt;video width=&quot;100%&quot; height=&quot;100%&quot; autoplay=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot; class=&quot;post-image--1&quot;&gt;
+    &lt;source src=&quot;/img/portfolio/2020-lemon.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+    &lt;source src=&quot;/img/portfolio/2020-lemon.ogg&quot; type=&quot;video/ogg&quot; /&gt;
     Your browser does not support the video tag.
   &lt;/video&gt;
 &lt;/div&gt;
 &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
-  &lt;img src=&quot;/img/portfolio/2020-koala.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Koala&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-koala.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Koala&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
-  &lt;img src=&quot;/img/portfolio/2020-strawberry.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Strawberry&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-strawberry.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Strawberry&quot; /&gt;
 &lt;/div&gt;</content><summary type="html">Date: 2020</summary></entry><entry><title type="html">Kelham island WI</title><link href="http://localhost:4000/kiwi.html" rel="alternate" type="text/html" title="Kelham island WI" /><published>2017-01-11T22:30:19+00:00</published><updated>2017-01-11T22:30:19+00:00</updated><id>http://localhost:4000/kiwi</id><content type="html" xml:base="http://localhost:4000/kiwi.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#FE8A89;&quot;&gt;
   &lt;li&gt;Date: 2014&lt;/li&gt;
   &lt;li&gt;Roles: Design and development&lt;/li&gt;
@@ -79,88 +77,85 @@
   blog about the events that they hosted, and shout about upcoming events and where they were at. I designed and built the website which uses Wordpress.
 &lt;/p&gt;
 
-&lt;a class=&quot;project-link&quot; href=&quot;http://kelhamislandwi.co.uk&quot;&gt;Take a look at Kelham Island WI website here&lt;/a&gt;</content><summary type="html">Date: 2014
+&lt;p&gt;&lt;a class=&quot;project-link&quot; href=&quot;http://kelhamislandwi.co.uk&quot;&gt;Take a look at Kelham Island WI website here&lt;/a&gt;&lt;/p&gt;</content><summary type="html">Date: 2014
   Roles: Design and development</summary></entry><entry><title type="html">Selected illustrations</title><link href="http://localhost:4000/selected-illustrations.html" rel="alternate" type="text/html" title="Selected illustrations" /><published>2017-01-11T22:30:19+00:00</published><updated>2017-01-11T22:30:19+00:00</updated><id>http://localhost:4000/hydrangea</id><content type="html" xml:base="http://localhost:4000/selected-illustrations.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#D03438;&quot;&gt;
   &lt;li&gt;Date: 2020&lt;/li&gt;
 &lt;/ul&gt;
 
-
 &lt;div class=&quot;col-sm-6&quot;&gt;
-  &lt;img src=&quot;/img/portfolio/2020-tiger.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Tiger&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-tiger.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Tiger&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;col-sm-6&quot;&gt;
-  &lt;img src=&quot;/img/portfolio/2020-leopard.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Leopard&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-leopard.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Leopard&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
-  &lt;img src=&quot;/img/portfolio/2020-eggs.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Easter egg family&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-eggs.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Easter egg family&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
-  &lt;img src=&quot;/img/portfolio/2020-tea.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Tea&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-tea.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Tea&quot; /&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;col-sm-6&quot;&gt;
-  &lt;img src=&quot;/img/portfolio/2020-ramen.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Ramen&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-ramen.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Ramen&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;col-sm-6&quot;&gt;
-  &lt;video width=&quot;100%&quot; height=&quot;100%&quot; autoplay muted loop class=&quot;post-image--1&quot;&gt;
-    &lt;source src=&quot;/img/portfolio/2020-lemon.mp4&quot; type=&quot;video/mp4&quot;&gt;
-    &lt;source src=&quot;/img/portfolio/2020-lemon.ogg&quot; type=&quot;video/ogg&quot;&gt;
+  &lt;video width=&quot;100%&quot; height=&quot;100%&quot; autoplay=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot; class=&quot;post-image--1&quot;&gt;
+    &lt;source src=&quot;/img/portfolio/2020-lemon.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+    &lt;source src=&quot;/img/portfolio/2020-lemon.ogg&quot; type=&quot;video/ogg&quot; /&gt;
     Your browser does not support the video tag.
   &lt;/video&gt;
 &lt;/div&gt;
 &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
-  &lt;img src=&quot;/img/portfolio/2020-koala.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Koala&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-koala.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Koala&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
-  &lt;img src=&quot;/img/portfolio/2020-strawberry.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Strawberry&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-strawberry.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Strawberry&quot; /&gt;
 &lt;/div&gt;</content><summary type="html">Date: 2020</summary></entry><entry><title type="html">Healthy Island</title><link href="http://localhost:4000/healthy-island.html" rel="alternate" type="text/html" title="Healthy Island" /><published>2017-01-11T22:30:19+00:00</published><updated>2017-01-11T22:30:19+00:00</updated><id>http://localhost:4000/healthy-island</id><content type="html" xml:base="http://localhost:4000/healthy-island.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#2A4D6F;&quot;&gt;
   &lt;li&gt;Date: 2016&lt;/li&gt;
   &lt;li&gt;Roles: Co-creation, Illustration, UX, Storyboarding, Developed in Gamesalad for multi-platform mobile devices and web&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p class=&quot;lead&quot;&gt;Healthy Island is a game aimed at children aged 7-11 encouraging them to think about their health and wellbeing through a series of quizzes and minigames. I played a leading role on the UX and design direction for the app whilst building some of the mini-games and other game screens in Gamesalad. I also managed the testing and release of the app.&lt;/p&gt;
-&lt;a class=&quot;project-link&quot; href=&quot;http://healthyisland.me&quot;&gt;Take a look at the Healthy Island website&lt;/a&gt;
-
+&lt;p&gt;&lt;a class=&quot;project-link&quot; href=&quot;http://healthyisland.me&quot;&gt;Take a look at the Healthy Island website&lt;/a&gt;&lt;/p&gt;
 
 &lt;div class=&quot;project__images&quot;&gt;
-  &lt;img class=&quot;col-sm-12&quot;  src=&quot;/img/portfolio/hi-1.jpg&quot;&gt;
-  &lt;img class=&quot;col-sm-12&quot; src=&quot;/img/portfolio/hi-2.jpg&quot;&gt;
-  &lt;img class=&quot;col-sm-12 &quot; src=&quot;/img/portfolio/hi-situp.jpg&quot;&gt;
-  &lt;img class=&quot;col-sm-12 &quot; src=&quot;/img/portfolio/hi-4.jpg&quot;&gt;
+  &lt;img class=&quot;col-sm-12&quot; src=&quot;/img/portfolio/hi-1.jpg&quot; /&gt;
+  &lt;img class=&quot;col-sm-12&quot; src=&quot;/img/portfolio/hi-2.jpg&quot; /&gt;
+  &lt;img class=&quot;col-sm-12 &quot; src=&quot;/img/portfolio/hi-situp.jpg&quot; /&gt;
+  &lt;img class=&quot;col-sm-12 &quot; src=&quot;/img/portfolio/hi-4.jpg&quot; /&gt;
 &lt;/div&gt;</content><summary type="html">Date: 2016
   Roles: Co-creation, Illustration, UX, Storyboarding, Developed in Gamesalad for multi-platform mobile devices and web</summary></entry><entry><title type="html">Selected illustrations</title><link href="http://localhost:4000/selected-illustrations.html" rel="alternate" type="text/html" title="Selected illustrations" /><published>2017-01-11T22:30:19+00:00</published><updated>2017-01-11T22:30:19+00:00</updated><id>http://localhost:4000/eggs</id><content type="html" xml:base="http://localhost:4000/selected-illustrations.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#D03438;&quot;&gt;
   &lt;li&gt;Date: 2020&lt;/li&gt;
 &lt;/ul&gt;
 
-
 &lt;div class=&quot;col-sm-6&quot;&gt;
-  &lt;img src=&quot;/img/portfolio/2020-tiger.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Tiger&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-tiger.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Tiger&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;col-sm-6&quot;&gt;
-  &lt;img src=&quot;/img/portfolio/2020-leopard.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Leopard&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-leopard.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Leopard&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
-  &lt;img src=&quot;/img/portfolio/2020-eggs.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Easter egg family&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-eggs.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Easter egg family&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
-  &lt;img src=&quot;/img/portfolio/2020-tea.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Tea&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-tea.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Tea&quot; /&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;col-sm-6&quot;&gt;
-  &lt;img src=&quot;/img/portfolio/2020-ramen.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Ramen&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-ramen.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Ramen&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;col-sm-6&quot;&gt;
-  &lt;video width=&quot;100%&quot; height=&quot;100%&quot; autoplay muted loop class=&quot;post-image--1&quot;&gt;
-    &lt;source src=&quot;/img/portfolio/2020-lemon.mp4&quot; type=&quot;video/mp4&quot;&gt;
-    &lt;source src=&quot;/img/portfolio/2020-lemon.ogg&quot; type=&quot;video/ogg&quot;&gt;
+  &lt;video width=&quot;100%&quot; height=&quot;100%&quot; autoplay=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot; class=&quot;post-image--1&quot;&gt;
+    &lt;source src=&quot;/img/portfolio/2020-lemon.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+    &lt;source src=&quot;/img/portfolio/2020-lemon.ogg&quot; type=&quot;video/ogg&quot; /&gt;
     Your browser does not support the video tag.
   &lt;/video&gt;
 &lt;/div&gt;
 &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
-  &lt;img src=&quot;/img/portfolio/2020-koala.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Koala&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-koala.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Koala&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
-  &lt;img src=&quot;/img/portfolio/2020-strawberry.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Strawberry&quot;&gt;
+  &lt;img src=&quot;/img/portfolio/2020-strawberry.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Strawberry&quot; /&gt;
 &lt;/div&gt;</content><summary type="html">Date: 2020</summary></entry><entry><title type="html">Dragon in the Attic</title><link href="http://localhost:4000/dragon-in-the-attic.html" rel="alternate" type="text/html" title="Dragon in the Attic" /><published>2017-01-11T22:30:19+00:00</published><updated>2017-01-11T22:30:19+00:00</updated><id>http://localhost:4000/dragon-in-the-attic</id><content type="html" xml:base="http://localhost:4000/dragon-in-the-attic.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#BE5877;&quot;&gt;
   &lt;li&gt;Date: 2015&lt;/li&gt;
   &lt;li&gt;Roles: Character design, Illustration, UX, Storyboarding, Developed in Gamesalad for multi-platform mobile devices and web&lt;/li&gt;
@@ -168,13 +163,12 @@
 
 &lt;p class=&quot;lead&quot;&gt;Dragon in the Attic is a game aimed at children aged 6-12 designed to encourage them to think about bullying and their health choices through a character driven concept. The initial concept was created by children for a Schools App Challenge. I was the design lead for the project, working on the character design, game assets and helped to make their idea into an app with storyboarding, research and development. I also worked on building the app using Gamesalad.&lt;/p&gt;
 
-
 &lt;div class=&quot;project__images&quot;&gt;
-  &lt;img class=&quot;col-sm-6 col-sm-offset-3&quot;  src=&quot;/img/portfolio/dragon-isolated.jpg&quot; alt=&quot;image-alt&quot;&gt;
-  &lt;img class=&quot;col-sm-6&quot; src=&quot;/img/portfolio/dita-shop.jpg&quot; alt=&quot;image-alt&quot;&gt;
-  &lt;img class=&quot;col-sm-6 &quot; src=&quot;/img/portfolio/dita-house.jpg&quot; alt=&quot;image-alt&quot;&gt;
-  &lt;img class=&quot;col-sm-6 &quot; src=&quot;/img/portfolio/dita-outfit.jpg&quot; alt=&quot;image-alt&quot;&gt;
-  &lt;img class=&quot;col-sm-6 &quot; src=&quot;/img/portfolio/dita-lounge.jpg&quot; alt=&quot;image-alt&quot;&gt;
+  &lt;img class=&quot;col-sm-6 col-sm-offset-3&quot; src=&quot;/img/portfolio/dragon-isolated.jpg&quot; alt=&quot;image-alt&quot; /&gt;
+  &lt;img class=&quot;col-sm-6&quot; src=&quot;/img/portfolio/dita-shop.jpg&quot; alt=&quot;image-alt&quot; /&gt;
+  &lt;img class=&quot;col-sm-6 &quot; src=&quot;/img/portfolio/dita-house.jpg&quot; alt=&quot;image-alt&quot; /&gt;
+  &lt;img class=&quot;col-sm-6 &quot; src=&quot;/img/portfolio/dita-outfit.jpg&quot; alt=&quot;image-alt&quot; /&gt;
+  &lt;img class=&quot;col-sm-6 &quot; src=&quot;/img/portfolio/dita-lounge.jpg&quot; alt=&quot;image-alt&quot; /&gt;
 &lt;/div&gt;</content><summary type="html">Date: 2015
   Roles: Character design, Illustration, UX, Storyboarding, Developed in Gamesalad for multi-platform mobile devices and web</summary></entry><entry><title type="html">Children United</title><link href="http://localhost:4000/children-united.html" rel="alternate" type="text/html" title="Children United" /><published>2017-01-11T22:30:19+00:00</published><updated>2017-01-11T22:30:19+00:00</updated><id>http://localhost:4000/children-united</id><content type="html" xml:base="http://localhost:4000/children-united.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#D03438;&quot;&gt;
   &lt;li&gt;Date: 2016&lt;/li&gt;
@@ -191,7 +185,8 @@
       page, which I also designed.
     &lt;/p&gt;
 
-&lt;img src=&quot;/img/portfolio/children-united-icons.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;children-united&quot;&gt;
+&lt;img src=&quot;/img/portfolio/children-united-icons.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;children-united&quot; /&gt;
 
-&lt;img src=&quot;/img/portfolio/children-united-full.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;children-united&quot;&gt;</content><summary type="html">Date: 2016
+&lt;img src=&quot;/img/portfolio/children-united-full.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;children-united&quot; /&gt;
+&lt;/p&gt;</content><summary type="html">Date: 2016
   Roles: Illustration, UX, Wireframing, Front-end</summary></entry></feed>
