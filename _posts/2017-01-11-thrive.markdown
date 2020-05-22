@@ -4,7 +4,8 @@ date: 2017-01-11 22:30:00 Z
 permalink: thrive.html
 class: col-xs-6 col-md-6
 color: D03438;
-thumb: thrive-hero.png
+thumb:
+  image: "/uploads/thrive-img.jpg"
 bgimg: children-united-bg.jpg
 img2: thrive-thumb.jpg
 img3: thrive-full-1.jpg
