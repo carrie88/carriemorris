@@ -3,7 +3,8 @@ title: Healthy Island
 date: 2017-01-11 22:30:00 Z
 permalink: healthy-island.html
 class: col-xs-6 col-md-3
-thumb: healthy-island.png
+thumb:
+  image: "/uploads/healthy-island.jpg"
 img2: hi-1.jpg
 img3: hi-2.jpg
 img4: hi-situp.jpg
