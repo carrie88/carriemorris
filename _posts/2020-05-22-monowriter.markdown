@@ -6,4 +6,9 @@ thumb:
 layout: post
 ---
 
+<ul class="list-tools" style="color:#{{ page.color }}">
+  <li>Date: 2020</li>
+</ul>
+
+<p class="lead"> Monowriter is an ongoing MojaWorks collaboration project. </p>
 ![SIGN IN.jpg](/uploads/SIGN%20IN.jpg)
