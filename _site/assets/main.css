@@ -1058,7 +1058,9 @@ h2 {
   justify-content: center;
   width: 100%;
   min-height: 100px;
-  background: #343543; }
+  background: #343543;
+  position: absolute;
+  bottom: 0; }
 
 .section__about {
   background: #292a38;
