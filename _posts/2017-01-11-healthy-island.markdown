@@ -1,10 +1,8 @@
 ---
 title: Healthy Island
-date: 2017-01-11 22:30:19 Z
+date: 2017-01-11 22:30:00 Z
 permalink: healthy-island.html
-layout: post
 class: col-xs-6 col-md-3
-img: healthy-island.jpg
 thumb: healthy-island.png
 img2: hi-1.jpg
 img3: hi-2.jpg
@@ -12,6 +10,7 @@ img4: hi-situp.jpg
 img5: hi-4.jpg
 alt: Healthy Island
 color: 2A4D6F;
+layout: post
 ---
 
 <ul class="list-tools" style="color:#{{ page.color }}">
