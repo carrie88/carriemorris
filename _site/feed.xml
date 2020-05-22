@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-22T22:56:11+01:00</updated><id>http://localhost:4000//</id><title type="html">Carrie Morris</title><subtitle>Digital design and illustration</subtitle><entry><title type="html">Monowriter</title><link href="http://localhost:4000/2020/05/22/monowriter/" rel="alternate" type="text/html" title="Monowriter" /><published>2020-05-22T22:14:00+01:00</published><updated>2020-05-22T22:14:00+01:00</updated><id>http://localhost:4000/2020/05/22/monowriter</id><content type="html" xml:base="http://localhost:4000/2020/05/22/monowriter/">&lt;p&gt;&lt;img src=&quot;/uploads/SIGN%20IN.jpg&quot; alt=&quot;SIGN IN.jpg&quot; /&gt;&lt;/p&gt;</content><summary type="html"></summary></entry><entry><title type="html">Monowriter</title><link href="http://localhost:4000/2020/05/22/monowriter/" rel="alternate" type="text/html" title="Monowriter" /><published>2020-05-22T22:10:00+01:00</published><updated>2020-05-22T22:10:00+01:00</updated><id>http://localhost:4000/2020/05/22/monowriter</id><content type="html" xml:base="http://localhost:4000/2020/05/22/monowriter/"></content></entry><entry><title type="html">Selected illustrations - Eggs</title><link href="http://localhost:4000/selected-illustrations.html" rel="alternate" type="text/html" title="Selected illustrations - Eggs" /><published>2020-04-20T23:30:00+01:00</published><updated>2020-04-20T23:30:00+01:00</updated><id>http://localhost:4000/eggs</id><content type="html" xml:base="http://localhost:4000/selected-illustrations.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#D03438;&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-22T23:13:04+01:00</updated><id>http://localhost:4000//</id><title type="html">Carrie Morris</title><subtitle>Digital design and illustration</subtitle><entry><title type="html">Monowriter</title><link href="http://localhost:4000/2020/05/22/monowriter/" rel="alternate" type="text/html" title="Monowriter" /><published>2020-05-22T22:14:00+01:00</published><updated>2020-05-22T22:14:00+01:00</updated><id>http://localhost:4000/2020/05/22/monowriter</id><content type="html" xml:base="http://localhost:4000/2020/05/22/monowriter/">&lt;p&gt;&lt;img src=&quot;/uploads/SIGN%20IN.jpg&quot; alt=&quot;SIGN IN.jpg&quot; /&gt;&lt;/p&gt;</content><summary type="html"></summary></entry><entry><title type="html">Monowriter</title><link href="http://localhost:4000/2020/05/22/monowriter/" rel="alternate" type="text/html" title="Monowriter" /><published>2020-05-22T22:10:00+01:00</published><updated>2020-05-22T22:10:00+01:00</updated><id>http://localhost:4000/2020/05/22/monowriter</id><content type="html" xml:base="http://localhost:4000/2020/05/22/monowriter/"></content></entry><entry><title type="html">Selected illustrations - Eggs</title><link href="http://localhost:4000/selected-illustrations.html" rel="alternate" type="text/html" title="Selected illustrations - Eggs" /><published>2020-04-20T23:30:00+01:00</published><updated>2020-04-20T23:30:00+01:00</updated><id>http://localhost:4000/eggs</id><content type="html" xml:base="http://localhost:4000/selected-illustrations.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#D03438;&quot;&gt;
   &lt;li&gt;Date: 2020&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -62,7 +62,7 @@
 &lt;/div&gt;
 &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
   &lt;img src=&quot;/img/portfolio/2020-strawberry.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Strawberry&quot; /&gt;
-&lt;/div&gt;</content><summary type="html">Date: 2020</summary></entry><entry><title type="html">Young Womens Housing Project (YWHP)</title><link href="http://localhost:4000/ywhp.html" rel="alternate" type="text/html" title="Young Womens Housing Project (YWHP)" /><published>2017-01-11T22:30:19+00:00</published><updated>2017-01-11T22:30:19+00:00</updated><id>http://localhost:4000/ywhp-web</id><content type="html" xml:base="http://localhost:4000/ywhp.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#FE8A89;&quot;&gt;
+&lt;/div&gt;</content><summary type="html">Date: 2020</summary></entry><entry><title type="html">Young Womens Housing Project (YWHP)</title><link href="http://localhost:4000/ywhp.html" rel="alternate" type="text/html" title="Young Womens Housing Project (YWHP)" /><published>2017-01-11T22:30:00+00:00</published><updated>2017-01-11T22:30:00+00:00</updated><id>http://localhost:4000/ywhp-web</id><content type="html" xml:base="http://localhost:4000/ywhp.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#FE8A89;&quot;&gt;
   &lt;li&gt;Date: 2016&lt;/li&gt;
   &lt;li&gt;Roles: Branding Illustration, UX, Wireframing, Front-end, Wordpress Development&lt;/li&gt;
 &lt;/ul&gt;
@@ -85,7 +85,7 @@
   &lt;/div&gt;
   &lt;img class=&quot;col-sm-12 post-image--1&quot; src=&quot;/img/portfolio/ywhp-web.jpg&quot; alt=&quot;YWHP image&quot; /&gt;
 &lt;/div&gt;</content><summary type="html">Date: 2016
-  Roles: Branding Illustration, UX, Wireframing, Front-end, Wordpress Development</summary></entry><entry><title type="html">Thrive</title><link href="http://localhost:4000/thrive.html" rel="alternate" type="text/html" title="Thrive" /><published>2017-01-11T22:30:19+00:00</published><updated>2017-01-11T22:30:19+00:00</updated><id>http://localhost:4000/thrive</id><content type="html" xml:base="http://localhost:4000/thrive.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#D03438;&quot;&gt;
+  Roles: Branding Illustration, UX, Wireframing, Front-end, Wordpress Development</summary></entry><entry><title type="html">Thrive</title><link href="http://localhost:4000/thrive.html" rel="alternate" type="text/html" title="Thrive" /><published>2017-01-11T22:30:00+00:00</published><updated>2017-01-11T22:30:00+00:00</updated><id>http://localhost:4000/thrive</id><content type="html" xml:base="http://localhost:4000/thrive.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#D03438;&quot;&gt;
   &lt;li&gt;Date: 2015&lt;/li&gt;
   &lt;li&gt;Roles: Design, Development and front-end&lt;/li&gt;
 &lt;/ul&gt;
@@ -99,7 +99,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/img/portfolio/thrive-thumb.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;thrive&quot; /&gt;
 &lt;img src=&quot;/img/portfolio/thrive-full-1.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;thrive&quot; /&gt;&lt;/p&gt;</content><summary type="html">Date: 2015
-  Roles: Design, Development and front-end</summary></entry><entry><title type="html">Selected illustrations</title><link href="http://localhost:4000/selected-illustrations.html" rel="alternate" type="text/html" title="Selected illustrations" /><published>2017-01-11T22:30:19+00:00</published><updated>2017-01-11T22:30:19+00:00</updated><id>http://localhost:4000/leopard</id><content type="html" xml:base="http://localhost:4000/selected-illustrations.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#D03438;&quot;&gt;
+  Roles: Design, Development and front-end</summary></entry><entry><title type="html">Selected illustrations - Leopard</title><link href="http://localhost:4000/selected-illustrations.html" rel="alternate" type="text/html" title="Selected illustrations - Leopard" /><published>2017-01-11T22:30:00+00:00</published><updated>2017-01-11T22:30:00+00:00</updated><id>http://localhost:4000/leopard</id><content type="html" xml:base="http://localhost:4000/selected-illustrations.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#D03438;&quot;&gt;
   &lt;li&gt;Date: 2020&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -131,18 +131,7 @@
 &lt;/div&gt;
 &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
   &lt;img src=&quot;/img/portfolio/2020-strawberry.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;Strawberry&quot; /&gt;
-&lt;/div&gt;</content><summary type="html">Date: 2020</summary></entry><entry><title type="html">Kelham island WI</title><link href="http://localhost:4000/kiwi.html" rel="alternate" type="text/html" title="Kelham island WI" /><published>2017-01-11T22:30:19+00:00</published><updated>2017-01-11T22:30:19+00:00</updated><id>http://localhost:4000/kiwi</id><content type="html" xml:base="http://localhost:4000/kiwi.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#FE8A89;&quot;&gt;
-  &lt;li&gt;Date: 2014&lt;/li&gt;
-  &lt;li&gt;Roles: Design and development&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class=&quot;lead&quot;&gt;
-  Not long after I moved to Sheffield in 2014, I joined the newly started Kelham Island WI. They needed a website to help them
-  blog about the events that they hosted, and shout about upcoming events and where they were at. I designed and built the website which uses Wordpress.
-&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;project-link&quot; href=&quot;http://kelhamislandwi.co.uk&quot;&gt;Take a look at Kelham Island WI website here&lt;/a&gt;&lt;/p&gt;</content><summary type="html">Date: 2014
-  Roles: Design and development</summary></entry><entry><title type="html">Healthy Island</title><link href="http://localhost:4000/healthy-island.html" rel="alternate" type="text/html" title="Healthy Island" /><published>2017-01-11T22:30:19+00:00</published><updated>2017-01-11T22:30:19+00:00</updated><id>http://localhost:4000/healthy-island</id><content type="html" xml:base="http://localhost:4000/healthy-island.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#2A4D6F;&quot;&gt;
+&lt;/div&gt;</content><summary type="html">Date: 2020</summary></entry><entry><title type="html">Healthy Island</title><link href="http://localhost:4000/healthy-island.html" rel="alternate" type="text/html" title="Healthy Island" /><published>2017-01-11T22:30:00+00:00</published><updated>2017-01-11T22:30:00+00:00</updated><id>http://localhost:4000/healthy-island</id><content type="html" xml:base="http://localhost:4000/healthy-island.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#2A4D6F;&quot;&gt;
   &lt;li&gt;Date: 2016&lt;/li&gt;
   &lt;li&gt;Roles: Co-creation, Illustration, UX, Storyboarding, Developed in Gamesalad for multi-platform mobile devices and web&lt;/li&gt;
 &lt;/ul&gt;
@@ -156,7 +145,7 @@
   &lt;img class=&quot;col-sm-12 &quot; src=&quot;/img/portfolio/hi-situp.jpg&quot; /&gt;
   &lt;img class=&quot;col-sm-12 &quot; src=&quot;/img/portfolio/hi-4.jpg&quot; /&gt;
 &lt;/div&gt;</content><summary type="html">Date: 2016
-  Roles: Co-creation, Illustration, UX, Storyboarding, Developed in Gamesalad for multi-platform mobile devices and web</summary></entry><entry><title type="html">Dragon in the Attic</title><link href="http://localhost:4000/dragon-in-the-attic.html" rel="alternate" type="text/html" title="Dragon in the Attic" /><published>2017-01-11T22:30:19+00:00</published><updated>2017-01-11T22:30:19+00:00</updated><id>http://localhost:4000/dragon-in-the-attic</id><content type="html" xml:base="http://localhost:4000/dragon-in-the-attic.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#BE5877;&quot;&gt;
+  Roles: Co-creation, Illustration, UX, Storyboarding, Developed in Gamesalad for multi-platform mobile devices and web</summary></entry><entry><title type="html">Dragon in the Attic</title><link href="http://localhost:4000/dragon-in-the-attic.html" rel="alternate" type="text/html" title="Dragon in the Attic" /><published>2017-01-11T22:30:00+00:00</published><updated>2017-01-11T22:30:00+00:00</updated><id>http://localhost:4000/dragon-in-the-attic</id><content type="html" xml:base="http://localhost:4000/dragon-in-the-attic.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#BE5877;&quot;&gt;
   &lt;li&gt;Date: 2015&lt;/li&gt;
   &lt;li&gt;Roles: Character design, Illustration, UX, Storyboarding, Developed in Gamesalad for multi-platform mobile devices and web&lt;/li&gt;
 &lt;/ul&gt;
@@ -164,10 +153,29 @@
 &lt;p class=&quot;lead&quot;&gt;Dragon in the Attic is a game aimed at children aged 6-12 designed to encourage them to think about bullying and their health choices through a character driven concept. The initial concept was created by children for a Schools App Challenge. I was the design lead for the project, working on the character design, game assets and helped to make their idea into an app with storyboarding, research and development. I also worked on building the app using Gamesalad.&lt;/p&gt;
 
 &lt;div class=&quot;project__images&quot;&gt;
-  &lt;img class=&quot;col-sm-6 col-sm-offset-3&quot; src=&quot;/img/portfolio/dragon-isolated.jpg&quot; alt=&quot;image-alt&quot; /&gt;
-  &lt;img class=&quot;col-sm-6&quot; src=&quot;/img/portfolio/dita-shop.jpg&quot; alt=&quot;image-alt&quot; /&gt;
-  &lt;img class=&quot;col-sm-6 &quot; src=&quot;/img/portfolio/dita-house.jpg&quot; alt=&quot;image-alt&quot; /&gt;
-  &lt;img class=&quot;col-sm-6 &quot; src=&quot;/img/portfolio/dita-outfit.jpg&quot; alt=&quot;image-alt&quot; /&gt;
-  &lt;img class=&quot;col-sm-6 &quot; src=&quot;/img/portfolio/dita-lounge.jpg&quot; alt=&quot;image-alt&quot; /&gt;
+  &lt;img class=&quot;col-sm-6 col-sm-offset-3&quot; src=&quot;/img/portfolio/dragon-isolated.jpg&quot; alt=&quot;Dragon in the attic&quot; /&gt;
+  &lt;img class=&quot;col-sm-6&quot; src=&quot;/img/portfolio/dita-shop.jpg&quot; alt=&quot;Dragon in the attic&quot; /&gt;
+  &lt;img class=&quot;col-sm-6 &quot; src=&quot;/img/portfolio/dita-house.jpg&quot; alt=&quot;Dragon in the attic&quot; /&gt;
+  &lt;img class=&quot;col-sm-6 &quot; src=&quot;/img/portfolio/dita-outfit.jpg&quot; alt=&quot;Dragon in the attic&quot; /&gt;
+  &lt;img class=&quot;col-sm-6 &quot; src=&quot;/img/portfolio/dita-lounge.jpg&quot; alt=&quot;Dragon in the attic&quot; /&gt;
 &lt;/div&gt;</content><summary type="html">Date: 2015
-  Roles: Character design, Illustration, UX, Storyboarding, Developed in Gamesalad for multi-platform mobile devices and web</summary></entry></feed>
+  Roles: Character design, Illustration, UX, Storyboarding, Developed in Gamesalad for multi-platform mobile devices and web</summary></entry><entry><title type="html">Children United</title><link href="http://localhost:4000/children-united.html" rel="alternate" type="text/html" title="Children United" /><published>2017-01-11T22:30:00+00:00</published><updated>2017-01-11T22:30:00+00:00</updated><id>http://localhost:4000/children-united</id><content type="html" xml:base="http://localhost:4000/children-united.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#D03438;&quot;&gt;
+  &lt;li&gt;Date: 2016&lt;/li&gt;
+  &lt;li&gt;Roles: Illustration, UX, Wireframing, Front-end&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class=&quot;lead&quot;&gt;At Yoomee I worked on Children United, a collaboration between Save the Children,
+   First News and Achievement for all. They wanted to help connect a global community of educated
+   children to take collective action in order to change their world.
+   &lt;p&gt; I worked on the planning the journey, graphic design and front-end build of the website.&lt;/p&gt;
+    &lt;p&gt;The website needed to have pages aimed at different age groups which was a challenge in terms of UX.
+    The childrens homepage area features a fun drag and drop questionnaire where the user can arrange and prioritise
+      the world issues most important to them. The data was collected and displayed on a dynamic infographic
+      page, which I also designed.
+    &lt;/p&gt;
+
+&lt;img src=&quot;/img/portfolio/children-united-icons.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;children-united&quot; /&gt;
+
+&lt;img src=&quot;/img/portfolio/children-united-full.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;children-united&quot; /&gt;
+&lt;/p&gt;</content><summary type="html">Date: 2016
+  Roles: Illustration, UX, Wireframing, Front-end</summary></entry></feed>
