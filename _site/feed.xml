@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-22T21:44:33+01:00</updated><id>http://localhost:4000//</id><title type="html">Carrie Morris</title><subtitle>Digital design and illustration</subtitle><entry><title type="html">Mole</title><link href="http://localhost:4000/2020/05/21/mole/" rel="alternate" type="text/html" title="Mole" /><published>2020-05-21T21:35:00+01:00</published><updated>2020-05-21T21:35:00+01:00</updated><id>http://localhost:4000/2020/05/21/mole</id><content type="html" xml:base="http://localhost:4000/2020/05/21/mole/">&lt;p&gt;Page&lt;/p&gt;</content><summary type="html">Page</summary></entry><entry><title type="html">Young Womens Housing Project (YWHP)</title><link href="http://localhost:4000/ywhp.html" rel="alternate" type="text/html" title="Young Womens Housing Project (YWHP)" /><published>2017-01-11T22:30:19+00:00</published><updated>2017-01-11T22:30:19+00:00</updated><id>http://localhost:4000/ywhp-web</id><content type="html" xml:base="http://localhost:4000/ywhp.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#FE8A89;&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-22T21:45:43+01:00</updated><id>http://localhost:4000//</id><title type="html">Carrie Morris</title><subtitle>Digital design and illustration</subtitle><entry><title type="html">Young Womens Housing Project (YWHP)</title><link href="http://localhost:4000/ywhp.html" rel="alternate" type="text/html" title="Young Womens Housing Project (YWHP)" /><published>2017-01-11T22:30:19+00:00</published><updated>2017-01-11T22:30:19+00:00</updated><id>http://localhost:4000/ywhp-web</id><content type="html" xml:base="http://localhost:4000/ywhp.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#FE8A89;&quot;&gt;
   &lt;li&gt;Date: 2016&lt;/li&gt;
   &lt;li&gt;Roles: Branding Illustration, UX, Wireframing, Front-end, Wordpress Development&lt;/li&gt;
 &lt;/ul&gt;
@@ -176,4 +176,22 @@
   &lt;img class=&quot;col-sm-6 &quot; src=&quot;/img/portfolio/dita-outfit.jpg&quot; alt=&quot;image-alt&quot;&gt;
   &lt;img class=&quot;col-sm-6 &quot; src=&quot;/img/portfolio/dita-lounge.jpg&quot; alt=&quot;image-alt&quot;&gt;
 &lt;/div&gt;</content><summary type="html">Date: 2015
-  Roles: Character design, Illustration, UX, Storyboarding, Developed in Gamesalad for multi-platform mobile devices and web</summary></entry></feed>
+  Roles: Character design, Illustration, UX, Storyboarding, Developed in Gamesalad for multi-platform mobile devices and web</summary></entry><entry><title type="html">Children United</title><link href="http://localhost:4000/children-united.html" rel="alternate" type="text/html" title="Children United" /><published>2017-01-11T22:30:19+00:00</published><updated>2017-01-11T22:30:19+00:00</updated><id>http://localhost:4000/children-united</id><content type="html" xml:base="http://localhost:4000/children-united.html">&lt;ul class=&quot;list-tools&quot; style=&quot;color:#D03438;&quot;&gt;
+  &lt;li&gt;Date: 2016&lt;/li&gt;
+  &lt;li&gt;Roles: Illustration, UX, Wireframing, Front-end&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class=&quot;lead&quot;&gt;At Yoomee I worked on Children United, a collaboration between Save the Children,
+   First News and Achievement for all. They wanted to help connect a global community of educated
+   children to take collective action in order to change their world.
+   &lt;p&gt; I worked on the planning the journey, graphic design and front-end build of the website.&lt;/p&gt;
+    &lt;p&gt;The website needed to have pages aimed at different age groups which was a challenge in terms of UX.
+    The childrens homepage area features a fun drag and drop questionnaire where the user can arrange and prioritise
+      the world issues most important to them. The data was collected and displayed on a dynamic infographic
+      page, which I also designed.
+    &lt;/p&gt;
+
+&lt;img src=&quot;/img/portfolio/children-united-icons.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;children-united&quot;&gt;
+
+&lt;img src=&quot;/img/portfolio/children-united-full.jpg&quot; class=&quot;post-image--1&quot; alt=&quot;children-united&quot;&gt;</content><summary type="html">Date: 2016
+  Roles: Illustration, UX, Wireframing, Front-end</summary></entry></feed>
