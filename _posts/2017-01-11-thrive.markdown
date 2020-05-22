@@ -1,16 +1,15 @@
 ---
 title: Thrive
-date: 2017-01-11 22:30:19 Z
+date: 2017-01-11 22:30:00 Z
 permalink: thrive.html
-layout: post
 class: col-xs-6 col-md-6
 color: D03438;
 thumb: thrive-hero.png
 bgimg: children-united-bg.jpg
-img: thrive-img.jpg
 img2: thrive-thumb.jpg
 img3: thrive-full-1.jpg
 alt: thrive
+layout: post
 ---
 
 <ul class="list-tools" style="color:#{{ page.color }}">
