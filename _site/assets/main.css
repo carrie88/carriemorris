@@ -872,6 +872,8 @@ h2 {
     font-size: 50px;
     font-size: 2.27273rem;
     margin-bottom: 0; }
+  .header-logo img {
+    -webkit-font-smoothing: subpixel-antialiased; }
 
 .social-nav {
   text-align: center;

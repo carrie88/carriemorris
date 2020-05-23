@@ -17,8 +17,8 @@
     @include font-size($xx-large-font-size);
     margin-bottom: 0;
   }
-  span{
-
+  img{
+    -webkit-font-smoothing: subpixel-antialiased;
   }
 }
 
