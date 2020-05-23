@@ -103,7 +103,8 @@ body {
   margin: 0;
   background: url("/../img/site/background-blobs.svg") #fff;
   background-size: cover;
-  background-repeat: no-repeat; }
+  background-repeat: no-repeat;
+  -webkit-font-smoothing: antialiased; }
 
 img {
   max-width: 100%;
