@@ -5,7 +5,7 @@ permalink: ywhp.html
 class: col-xs-6 col-md-3
 thumb:
   image: "/uploads/ywhp_logo_pink.png"
-bgimg: ywhp-bg.jpg
+bgimg: 
 img2: ywhp_logo_trans.gif
 img3: ywhp-logo-2.jpg
 img4: ywhp-web.jpg
