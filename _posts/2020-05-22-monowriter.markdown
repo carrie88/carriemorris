@@ -7,7 +7,7 @@ layout: post
 ---
 
 <ul class="list-tools" style="color:#{{ page.color }}">
-  <li>Date: 2020</li>
+<li>Date: 2020</li>
 </ul>
 
 <p class="lead"> Monowriter is a project i'm working on in my spare time with my husband, who is working on the development of the tool.
