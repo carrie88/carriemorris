@@ -13,4 +13,4 @@ layout: post
 <p class="lead"> Monowriter is an ongoing MojaWorks collaboration project. </p>
 ![SIGN IN.jpg](/uploads/SIGN%20IN.jpg)
 
-![Structure Page2.jpg](/uploads/Structure%20Page2.jpg)
+![Frame 9.jpg](/uploads/Frame%209.jpg)
