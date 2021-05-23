@@ -14,3 +14,4 @@ layout: post
 <p class="lead">It began with an idea to create a writing tool that could be one tool for everything, for anything that could be written, with a need for structure. It aims to eliminate the blank canvas with space to gather inspiration, and a space to plot the structure of your piece with story blocks that use a character limit to keep focus tight. and, most importantly a switch to story mode, allowing you to reference your plot as you write the story.</p>
 
 
+![Frame 9.jpg](/uploads/Frame%209.jpg)
